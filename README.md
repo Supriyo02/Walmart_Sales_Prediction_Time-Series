@@ -8,4 +8,4 @@ SARIMAX model have been used for fiiting the model, as our time series dataset h
 [This project is solely made by me, after a lot of try, and nights' work. As clear explanations of sarimax model for beginners, implementing it with exogenous variables isn't much available in the web, it took much time to understand the concept and find a dataset according to my needs]
 
 The actual dataset is taken from Kaggle and then compressed according to our need
-[](https://www.kaggle.com/datasets/yasserh/walmart-dataset)
+[Kaggle Dataset](https://www.kaggle.com/datasets/yasserh/walmart-dataset)
